@@ -1,0 +1,3 @@
+# Author notebooks as MyST Markdown, paired with a generated .ipynb.
+# The .ipynb is build output (git-ignored); edit the .md.
+formats = "md:myst,ipynb"
